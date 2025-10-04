@@ -206,7 +206,7 @@ ul li {
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-04 115126.png>)
+![alt text](<Screenshot 2025-10-04 120213.png>)
 
 
 ## RESULT:
